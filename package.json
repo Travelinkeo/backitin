@@ -14,4 +14,8 @@
     "cors": "^2.8.5",
     "express": "^4.21.2"
   }
+    "scripts": {
+      "start": "node index.js"
+    }
+
 }

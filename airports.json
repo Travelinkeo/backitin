@@ -1902,5 +1902,6 @@
     {"code": "ZRH", "name": "Zurich"},
     {"code": "ZSA", "name": "San Salvador"},
     {"code": "VIG", "name": "Vigia"},
+    {"code": "PVG", "name": "Shanghai-Pudong"},
     {"code": "ZTH", "name": "Zakinthos"}
   ]

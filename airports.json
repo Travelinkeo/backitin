@@ -1903,5 +1903,6 @@
     {"code": "ZSA", "name": "San Salvador"},
     {"code": "VIG", "name": "Vigia"},
     {"code": "PVG", "name": "Shanghai-Pudong"},
+    {"code": "GDO", "name": "Guasdualito"},
     {"code": "ZTH", "name": "Zakinthos"}
   ]
